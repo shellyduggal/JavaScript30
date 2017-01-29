@@ -1,12 +1,18 @@
-#Drumkit
-###Javascript 30: Day 1
-Drum Sounds App - Practice a drum solo with your computer's keyboard!
-* This app was started by the Javascript 30 course (www.javascript30.com)
-* The HTML and CSS files were provided by the course. 
-* The JS code was written by me.
+# Drumkit
+### Javascript 30: Challenge 1
+Drum Sounds App - Practice a drum solo with your computer's keyboard! Press any of the listed keys to play the associated sound. 
 
-###Requirements
-* When key is pressed, app plays associated sound
-* When key is pressed, associated key (on screen) animates with addition of .playing
-* .playing should be removed when sound is finished
-* Length of sound should be limited to allow multiple sounds in a row
+### Instructions
+1. Download the repository
+2. Double click `index.html`
+3. Turn up the volume and view in your browser
+
+### Technology
+* Vanilla JS
+* HTML5 & CSS3
+
+
+### Credits
+This project is part of the [Javascript 30 Challenge] (https://javascript30.com) by Wes Bos. He provided all HTML and CSS files. 
+
+The JS was written by me and is free to use as needed.
