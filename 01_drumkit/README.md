@@ -2,14 +2,14 @@
 ### Javascript 30: Challenge 1
 Drum Sounds App - Practice a drum solo with your computer's keyboard! Press any of the listed keys to play the associated sound. 
 
+### Technology
+* Vanilla JS
+* HTML5 & CSS3
+
 ### Instructions
 1. Download the repository
 2. Double click `index.html`
 3. Turn up the volume and view in your browser
-
-### Technology
-* Vanilla JS
-* HTML5 & CSS3
 
 ![Screenshot](drumkit_screenshot.png)
 
